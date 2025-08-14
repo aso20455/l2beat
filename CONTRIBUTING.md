@@ -25,7 +25,7 @@ locally. To install dependencies do the following.
 
 1. Install [node.js](https://nodejs.org/en/) version 18. To easily manage node versions we recommend
    [fnm](https://github.com/Schniz/fnm).
-2. In the repository root, run `node --version > .node-version` to set the node version. Please do not commit this file.
+2. In the repository root, run `node --version > .node-version` to set the node version. 
 3. Install [pnpm](https://pnpm.io/installation#using-corepack), preferably using Corepack
    `corepack enable pnpm`
 4. In the repository root, run `pnpm install` to install project specific dependencies.
